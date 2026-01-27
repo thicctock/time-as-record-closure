@@ -1,2 +1,79 @@
-# time-as-record-closure
-A structural principle grounding time in irreversible record formation.
+# Time as Record Closure  
+## A Structural Principle for Temporality
+
+
+**Author:** @thicctock  
+**Date:** 2026-01-27  
+**Status:** Conceptual proposal
+
+ 
+### Summary
+
+Time is not treated here as a primitive background parameter, but as a structural feature grounded in irreversible record formation. I propose that physically meaningful time corresponds to the monotone accumulation of stable records that render alternative histories dynamically inaccessible. This principle unifies entropy increase, causal asymmetry, memory, and explanation without privileging any specific spacetime geometry or interpretation of quantum mechanics.
+
+---
+
+### The Principle
+
+#### Principle of Temporal Record Closure
+
+Time is constituted by the irreversible accumulation of stable records that render alternative histories physically inaccessible.
+
+Formally:
+
+T ≡ Aₚ(N*)
+
+with the ordering condition:
+
+Rₖ₊₁ ≽ Rₖ
+
+and locality constraint:
+
+N*(x) = 0 ∀ x ∉ P
+
+#### Definitions
+
+- **T** — Physical temporal ordering  
+- **R** — Record / constraint state  
+- **A** — Monotone accumulation operator  
+- **P** — Local record-forming interaction domain  
+- **N\*** — Record-generating novelty (stable physical correlations)  
+- **≽** — Partial order (“at least as constrained as”)
+
+
+A record is defined as a stable, redundantly encoded physical correlation that persists under local perturbations and restricts dynamically accessible future states.
+
+---
+
+### Scope and Non-Claims
+
+This proposal does not:
+- introduce a new dynamical law  
+- privilege a quantum interpretation  
+- assert time quantization  
+- reduce time to entropy  
+- depend on consciousness
+
+It is intended as a structural constraint on admissible theories of time.
+
+---
+
+### Motivation
+
+Despite time-symmetric dynamical laws, entropy, causality, memory, and explanation all exhibit a shared asymmetry. This principle proposes record closure as the underlying structure unifying these arrows.
+
+---
+
+### Compatibility
+
+The principle is compatible with:
+- Relativity (no global present required)  
+- Quantum mechanics (interpretation-agnostic)  
+- Thermodynamics (grounds entropy direction)  
+- Information-theoretic physics
+
+---
+
+### Remarks
+
+This is a conceptual contribution intended to clarify the structural basis of temporality rather than replace existing physical theory.
