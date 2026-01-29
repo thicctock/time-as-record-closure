@@ -43,6 +43,21 @@ N*(x) = 0 ∀ x ∉ P
 
 A record is defined as a stable, redundantly encoded physical correlation that persists under local perturbations and restricts dynamically accessible future states.
 
+### Technical notes (optional)
+
+To make “record” and “closure” explicit:
+
+- Let ρ map microstates ω to a macroscopic record state R:  ρ(ω)=R.
+- Define Γ(R) = { ω : ρ(ω)=R } as the set of microstates compatible with the same extant records.
+- **Semantic anchor:** R' ≽ R  ⇔  Γ(R') ⊆ Γ(R). (Later records exclude more alternatives.)
+
+A “record” can be operationalized as a correlation about some variable X that is:
+(i) **redundant** across many independent fragments of the environment, and
+(ii) **stable** over a persistence timescale τ under bounded local perturbations.
+
+Let rδ(X) be the number of disjoint environment fragments each carrying ≥(1−δ) of the accessible information about X.
+Then **N\*** denotes record-generating novelty: events that increase stable redundancy (Δrδ>0 with τ≥τmin).
+
 ---
 
 ### Scope and Non-Claims
