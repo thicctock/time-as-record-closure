@@ -89,6 +89,13 @@ The principle is compatible with:
 
 ---
 
+## Technical supplements (optional)
+
+- [Alignment with standard physics structures](alignment.md)  
+- [Appendix A: Toy models and diagram](appendix-a.md)  
+
+---
+
 ### Remarks
 
 This is a conceptual contribution intended to clarify the structural basis of temporality rather than replace existing physical theory.
