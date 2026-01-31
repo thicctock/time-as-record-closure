@@ -28,7 +28,7 @@ Define the compatible-set (preimage):
 
 (Optional scalar closure measure)
 
-- Define **C(R) = −log μ(Γ(R))**, where μ is the natural measure on Ω.  
+- Define **C(R) = −log μ(Γ(R))**, where μ is the natural measure on Ω (e.g., Liouville measure in classical phase space, or trace measure in quantum state space.  
   Then **R′ ≽ R ⇒ C(R′) ≥ C(R)**.
 
 ### T
@@ -104,4 +104,5 @@ This is the intended boundary between reversible entanglement that can be unwoun
 
 ## Short version
 
-Interpret R as a coarse-grained record state, Γ(R) as the compatible microstate set, and R′ ≽ R as record refinement Γ(R′) ⊆ Γ(R). Then “time-order” is the partial order induced by monotone record closure. N\* denotes the creation of stable, redundant records (operationalizable via redundancy thresholds over environment fragments), and Aₚ is the local accumulation of such record-generating events.
+Interpret R as a coarse-grained record state, Γ(R) as its compatible microstate set (preimage), and R′ ≽ R as record refinement (**compatible-set shrinkage**): Γ(R′) ⊆ Γ(R). 
+Then “time-order” is the partial order induced by monotone record closure. N\* denotes the creation of stable, redundant records (operationalizable via redundancy thresholds over environment fragments), and Aₚ is the local accumulation of such record-generating events.
