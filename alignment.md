@@ -49,7 +49,7 @@ Define the compatible-set (preimage):
 A clean operationalization (Darwinism-style) is via redundancy:
 - Choose a candidate recorded variable **X** (often pointer-like).
 - Partition the environment into fragments F₁, F₂, … .
-- Define redundancy rδ(X) as the number of disjoint environment fragments each carrying ≥(1−δ) of the accessible information about X.
+- Define redundancy rδ(X) as the number of disjoint environment fragments each carrying ≥(1−δ) of the mutual information I(X:F_i) about X.
 
 Then **N\*** events are those that increase stable redundancy:
 - **N\* : Δrδ(X) > 0**, with persistence τ ≥ τmin.
