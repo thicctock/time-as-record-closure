@@ -28,7 +28,7 @@ Define the compatible-set (preimage):
 
 (Optional scalar closure measure)
 
-- Define **C(R) = −log μ(Γ(R))**, where μ is the natural measure on Ω (e.g., Liouville measure in classical phase space, or trace measure in quantum state space.  
+- Define **C(R) = −log μ(Γ(R))**, where μ is the natural measure on Ω (e.g., Liouville measure in classical phase space, or trace measure in quantum state space.)  
   Then **R′ ≽ R ⇒ C(R′) ≥ C(R)**.
 
 ### T
