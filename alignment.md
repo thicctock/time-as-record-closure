@@ -11,6 +11,11 @@ This section maps the proposal’s symbols onto standard structures in statistic
 - Let **Ω** be a microstate space (classical phase space or quantum state space).
 - Let **ρ** map microstates ω to a macroscopic record state **R** (a coarse-graining / record-map).
 
+**Note on the record map ρ (not arbitrary):**  
+Although ρ looks like a generic coarse-graining, the intent here is that it is *physically grounded* in record formation. In open-system settings, decoherence tends to select pointer-like degrees of freedom (states/observables that are robust under system–environment monitoring) and these become *redundantly encoded* across environmental fragments. ρ is meant to track those stable, redundantly recorded macroscopic features—i.e., “what the world actually writes down”—so record formation is a local physical process (stability + redundancy), not merely an epistemic convention.  
+(Practically: the pointer structure can be approximate and model-dependent, but it is constrained by the interaction Hamiltonian and by robustness criteria.)
+
+
 Define the compatible-set (preimage):
 
 - **Γ(R) = { ω ∈ Ω : ρ(ω) = R }**  
