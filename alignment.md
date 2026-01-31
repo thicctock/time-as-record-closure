@@ -95,7 +95,9 @@ Different foliations may slice bookkeeping differently, but the local record ord
 
 This framing aligns with the decoherence/Darwinism boundary between reversible correlations and stable records:
 
-- before redundancy spreads, correlations can be reversed (quantum eraser / recoherence): these are not N\*;
+- before redundancy spreads, correlations (often entanglement) may remain *erasable* in controlled setups (quantum eraser / recoherence): they are correlations but not yet stable, redundant records, hence not N*.
+  
+
 - once correlations are redundantly imprinted and stable, “facts” become effectively classical: this is the onset of N\* and monotone closure.
 
 This is the intended boundary between reversible entanglement that can be unwound and robust records that behave like classical history.
