@@ -6,6 +6,15 @@
 **Date:** 2026-01-27  
 **Status:** Conceptual proposal
 
+### Development Process:
+
+This framework emerged from a collaboration between human intuition and AI formalization:
+
+My core intuitive thought: Time might be constituted by irreversible record accumulation
+Technical development (AI-assisted): ChatGPT and Claude helped translate this intuition into mathematical formalism, toy models, and connections to existing physics
+
+I understand the framework conceptually but cannot independently derive all technical content. This is presented as an exploratory synthesis—an attempt to formalize a foundational intuition using AI as a research tool. Feedback and critique from those with technical expertise are especially welcome.
+
  
 ### Summary
 
