@@ -10,7 +10,7 @@
 
 This framework emerged from a collaboration between human intuition and AI formalization:
 
-My core intuitive thought: Time might be constituted by irreversible record accumulation
+My core intuitive thought: "Time might be the accumulation of "newness" in the present only".
 Technical development (AI-assisted): ChatGPT and Claude helped translate this intuition into mathematical formalism, toy models, and connections to existing physics
 
 I understand the framework conceptually but cannot independently derive all technical content. This is presented as an exploratory synthesis—an attempt to formalize a foundational intuition using AI as a research tool. Feedback and critique from those with technical expertise are especially welcome.
@@ -18,7 +18,7 @@ I understand the framework conceptually but cannot independently derive all tech
  
 ### Summary
 
-Time is not treated here as a primitive background parameter, but as a structural feature grounded in irreversible record formation. I propose that physically meaningful time corresponds to the monotone accumulation of stable records that render alternative histories dynamically inaccessible. This principle unifies entropy increase, causal asymmetry, memory, and explanation without privileging any specific spacetime geometry or interpretation of quantum mechanics.
+Time is not treated here as a primitive background parameter, but as a structural feature grounded in irreversible record formation. The proposal is that physically meaningful time corresponds to the monotone accumulation of stable records that render alternative histories dynamically inaccessible. This principle unifies entropy increase, causal asymmetry, memory, and explanation without privileging any specific spacetime geometry or interpretation of quantum mechanics.
 
 ---
 
