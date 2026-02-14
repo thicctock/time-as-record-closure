@@ -57,7 +57,7 @@ A **record** is a stable, redundantly encoded physical correlation that persists
 
 ---
 
-## Technical notes (optional)
+## Technical notes
 
 To make “record” and “closure” explicit:
 
@@ -65,12 +65,15 @@ To make “record” and “closure” explicit:
 - Define Γ(R) = { ω : ρ(ω)=R } as the set of microstates compatible with the same extant records.  
 - **Semantic anchor:** R' ≽ R  ⇔  Γ(R') ⊆ Γ(R). (Later records exclude more alternatives.)
 
+**Note:** ρ is intended to be physically grounded (e.g., in decoherence-selected pointer structures / robust recorded variables), not an arbitrary bookkeeping choice.
+
 A “record” can be operationalized as a correlation about some variable X that is:
 (i) **redundant** across many independent fragments of the environment, and  
 (ii) **stable** over a persistence timescale τ under bounded local perturbations.
 
-Let rδ(X) be the number of disjoint environment fragments each carrying ≥(1−δ) of the accessible information about X.  
-Then **N\*** denotes record-generating novelty: events that increase stable redundancy (Δrδ>0 with τ≥τmin).
+Let **Rδ(t)** denote redundancy (number of disjoint environment fragments carrying ≥(1−δ) of the accessible information about X). Operationally, one convenient proxy is **Rδ(t)=N/mδ(t)** as in the figure below. Then **N\*** denotes record-generating novelty: events that increase **stable** redundancy (ΔRδ>0 with τ≥τmin).
+
+**Operational payoff:** TRC suggests comparing models by the growth and retention of redundancy **Rδ(t)** (for pointer observables) under noise/perturbations.
 
 ---
 
