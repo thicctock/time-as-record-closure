@@ -68,6 +68,11 @@ A “record” can be operationalized as a correlation about some variable X tha
 Let rδ(X) be the number of disjoint environment fragments each carrying ≥(1−δ) of the accessible information about X.
 Then **N\*** denotes record-generating novelty: events that increase stable redundancy (Δrδ>0 with τ≥τmin).
 
+### TRC in three equations (operational form)
+
+![TRC in three equations (operational form)](assets/trc_three_equations.png)
+*Figure: TRC in three equations (operational form).*
+
 ---
 
 ### Scope and Non-Claims
