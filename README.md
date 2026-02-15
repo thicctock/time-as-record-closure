@@ -77,6 +77,19 @@ Let **Rδ(t)** denote redundancy (number of disjoint environment fragments carry
 
 ---
 
+### Record-time “stalling” (interpretive note)
+
+$$
+T_{TRC}(t)=T_0+\alpha\int_{0}^{t}\max(0,N^*(s))\,ds
+$$
+
+If $N^*(s)=0$ over an interval, then $T_{TRC}$ is constant on that interval. Interpreted strictly, this is not “physics stops,” but: no new stable, redundant records are being added (relative to the chosen pointer observable $X$, fragment notion $F$, redundancy threshold $\delta$, and stability window $\tau_{\min}$). In that sense, the TRC clock stops ticking for that local record algebra.
+
+This “stall” is therefore domain- and coarse-graining-dependent: micro-dynamics may continue, but without additional durable record closure there is no further operational time-ordering to extract from records.
+
+
+---
+
 ## TRC in three equations (operational form)
 
 ![TRC in three equations (operational form)](assets/trc_three_equations.png)  
